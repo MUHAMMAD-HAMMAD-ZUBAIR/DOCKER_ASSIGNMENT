@@ -148,12 +148,12 @@ You should see **Next.js app running** 🎉
 3. Go to **Containers tab** → `nextjs-docker` should be running with green dot ✅
 4. Take screenshots and save as:
 
-```
 
-<img src="nextjs-docker-container.png" >
-<img src="nextjs-docker-localhost.png" >
-<img src="nextjs-docker-image.png" >
-```
+
+![Container Screenshot](Screen-Shots/nextjs-docker-container.png)
+![Localhost Screenshot](Screen-Shots/nextjs-docker-localhost.png)
+![Docker Image Screenshot](Screen-Shots/nextjs-docker-image.png)
+
 
 ---
 
