@@ -314,8 +314,9 @@ git branch -M main
 git remote add origin <YOUR_REPO_URL>
 git push -u origin main
 ```
-
-2. Fill Google Form:
+2. Assignment details:
+   [Assignment details](https://forms.gle/tKYj7EDGm99jLhsS6](https://github.com/AsharibAli/q4-giaic-sunday/tree/main/%F0%9F%93%9Dassignments/class_13_jan_04))
+3. Fill Google Form:
    [Submit Assignment](https://forms.gle/tKYj7EDGm99jLhsS6)
 
 ---
