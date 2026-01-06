@@ -1,8 +1,6 @@
-Bhai, main aap ke liye **fully detailed, beginner-friendly, fun, and error-safe README** bana deta hoon jo **assignment ke liye perfect** ho aur **har cheez step-by-step explain kare**. Main emojis, real-life examples, aur backend story ke sath samjhata hoon. Ye README file GitHub me directly dal kar submit kar sakte ho.
 
----
 
-````markdown
+
 # 🐳 Class 13 Assignment - Docker Containerization
 **Author:** Muhammad Hammad Zubair  
 **Date:** January 04  
