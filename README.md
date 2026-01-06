@@ -151,9 +151,8 @@ You should see **Next.js app running** 🎉
 
 
 ![Container Screenshot](Screen-Shots/nextjs-docker-container.png)
-![Localhost Screenshot](Screen-Shots/nextjs-docker-localhost.png)
 ![Docker Image Screenshot](Screen-Shots/nextjs-docker-image.png)
-
+![Docker Image Terminal](Screen-Shots/nextjs-docker-terminal.png)
 
 ---
 
@@ -266,14 +265,12 @@ Expected Output:
 2. Containers tab → `fastapi-docker` running ✅
 3. Save screenshots:
 
-```
 
-<img src="fast-api-terminal.png" >
-<img src="nextjs-docker-image.png" >
-<img src="fastapi-docker.png" >
-```
 
----
+![FAST-API Container Screenshot](Screen-Shots/fastapi-docker.png)
+![FAST-API Image Screenshot](Screen-Shots/nextjs-docker-image.png)
+![FAST_API Image Terminal](Screen-Shots/fast-api-terminal.png)
+
 
 # 📁 Folder Structure (Recommended)
 
@@ -336,8 +333,8 @@ git push -u origin main
 
 | Project | Images                                            | Containers                                              |
 | ------- | ------------------------------------------------- | ------------------------------------------------------- |
-| Next.js | ![nextjs-images](screenshots/nextjs-images.png)   | ![nextjs-container](screenshots/nextjs-container.png)   |
-| FastAPI | ![fastapi-images](screenshots/fastapi-images.png) | ![fastapi-container](screenshots/fastapi-container.png) |
+| Next.js | ![nextjs-images](Screen-Shots/nextjs-docker-image.png)  | ![nextjs-container](Screen-Shots/nextjs-docker-container.png)   |
+| FastAPI | ![fastapi-images](Screen-Shots/nextjs-docker-image.png) | ![fastapi-container](Screen-Shots/fastapi-docker.png) |
 
 ---
 
